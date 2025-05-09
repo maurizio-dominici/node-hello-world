@@ -1,0 +1,19 @@
+{
+  "name": "hello-world",
+  "version": "1.0.0",
+  "description": "package that prints hello world",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maurizio-dominici/node-hello-world.git"
+  },
+  "author": "Maurizio Dominici",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maurizio-dominici/node-hello-world/issues"
+  },
+  "homepage": "https://github.com/maurizio-dominici/node-hello-world#readme"
+}
